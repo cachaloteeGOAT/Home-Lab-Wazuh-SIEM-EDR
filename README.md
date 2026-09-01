@@ -140,5 +140,5 @@ Todo o processo de montagem serviu como um primeiro contato aprofundado com o Wa
 
 ## Próximos passos
 
-- [ ] Aprofundar com os próximos projetos do portfólio, com destaque para o de **Purple Team** (simulação de ataque + ajuste de detecção), que reaproveita esse mesmo ambiente
-- [ ] Explorar threat hunting manual sobre os logs coletados
+- [ ] Aprofundar com os próximos projetos do portfólio, com destaque para o de **Purple Team** (simulação de ataque + ajuste de detecção), que reaproveita esse mesmo ambiente.
+- [ ] Explorar threat hunting manual sobre os logs coletados.
